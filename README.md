@@ -14,4 +14,9 @@ FreeSign is an eSignature app, an open-source alternative to DocuSign, HelloSign
 
 We set up a [simple page](https://docmadeeasy.com/demo.html) that demonstrates how it works.
 
+And more.
+
+Other features include:
+
+
 
